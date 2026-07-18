@@ -6,7 +6,8 @@ token หรือ private signing key อยู่ใน repository นี้
 
 ## การใช้งาน
 
-1. ดาวน์โหลด `LongdoBot-Windows-x64.exe` จากหน้า Releases
+1. ดาวน์โหลด `LongdoBot-Windows-x64.exe` จาก `https://download.moojerry.com`
+   หรือจากหน้า Releases
 2. เปิดโปรแกรมและเข้าสู่ระบบด้วยบัญชี LongdoBot
 3. หนึ่งบัญชีใช้งานได้ตามจำนวนเครื่องที่เจ้าของระบบกำหนด ผู้ที่ไม่มีบัญชี
    หรือบัญชีถูกระงับจะไม่สามารถใช้ฟังก์ชันบอทได้
