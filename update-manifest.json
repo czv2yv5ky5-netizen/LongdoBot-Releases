@@ -3,20 +3,20 @@
   "payload": {
     "artifacts": {
       "windows-x64": {
-        "sha256": "536df2ffb41933f9a56719cea61f45be8cb805f4860d95ef042994de39fc091e",
-        "size": 143906580,
-        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v1.5.1-build17/LongdoBot-Windows-x64.exe"
+        "sha256": "2196194adf8433486b7056e12076a91c7f330af2a7ca2a58987e35e0f8404e0b",
+        "size": 143911683,
+        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v1.6.0-build18/LongdoBot-Windows-x64.exe"
       }
     },
     "channel": "stable",
-    "expires_at": "2027-07-18T12:02:50Z",
+    "expires_at": "2027-07-18T18:26:52Z",
     "mandatory": true,
-    "notes": "Fix Mode 3 already-reserved recovery and refresh safely",
+    "notes": "Recover taken orders in modes 1-3 and count only verified confirmed successes",
     "product_id": "longdo-bot",
-    "published_at": "2026-07-18T12:02:50Z",
+    "published_at": "2026-07-18T18:26:52Z",
     "schema": 1,
-    "sequence": 17,
-    "version": "1.5.1"
+    "sequence": 18,
+    "version": "1.6.0"
   },
-  "signature": "4uReLaksvgNEkyqJwbz1t4+TF7lPUlvzKNyFlRkAgUFDJcRkblqR+geF+D49RjNXarm9dugcEMK0IRywSb5nCw=="
+  "signature": "CRYI94PgH/GT5poY0ZnrO0+gX2gl3YL1N5m+Q85JF7OlgA6zcNtiYvs+DBSqFitIAw6H6ldIzmAuiaGElk1aAA=="
 }
