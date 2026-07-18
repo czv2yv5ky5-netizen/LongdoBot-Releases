@@ -3,20 +3,20 @@
   "payload": {
     "artifacts": {
       "windows-x64": {
-        "sha256": "5ded7ee12b0c61d8c8a1ca83aae230701db10d9bd6ff965df918d8b029d6a1d3",
-        "size": 143929667,
-        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v1.7.0-build20/LongdoBot-Windows-x64.exe"
+        "sha256": "80e87eb7d0298fcc83f4fb91c31bc897c95ca41d4c5a238c15b7122061124cf5",
+        "size": 143941760,
+        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v1.8.0-build21/LongdoBot-Windows-x64.exe"
       }
     },
     "channel": "stable",
-    "expires_at": "2027-07-18T21:15:24Z",
+    "expires_at": "2027-07-18T21:51:20Z",
     "mandatory": true,
-    "notes": "Read-only DOM cancellation monitoring, exact success reversal, and net order accounting",
+    "notes": "Passive DOM notification monitoring, protected Payment Detail, and opt-in fail-closed cancellation resume",
     "product_id": "longdo-bot",
-    "published_at": "2026-07-18T21:15:24Z",
+    "published_at": "2026-07-18T21:51:20Z",
     "schema": 1,
-    "sequence": 20,
-    "version": "1.7.0"
+    "sequence": 21,
+    "version": "1.8.0"
   },
-  "signature": "3iTSSCyOn/LrREM3UaV8J9W7hRP4z9ZauaOuA2ar6jKGe8mz2F4AwPfIgdhXrY8l/php2HgTQfAe91KwM5EgBg=="
+  "signature": "3j63SImJySF8yQA1d4KmeapCJVlzGpF58aG/oDfu2J2NDCf96+YhLpvyLSBJwsA0QC7X7Rt8kwp8N0ePtVzwCg=="
 }
