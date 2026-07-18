@@ -3,20 +3,20 @@
   "payload": {
     "artifacts": {
       "windows-x64": {
-        "sha256": "2196194adf8433486b7056e12076a91c7f330af2a7ca2a58987e35e0f8404e0b",
-        "size": 143911683,
-        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v1.6.0-build18/LongdoBot-Windows-x64.exe"
+        "sha256": "efa743a6886f2513ad3bfb9a8a7a9b69a1e7e4dfa8f5a03a8afc7bd9322fc6ee",
+        "size": 143916114,
+        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v1.6.1-build19/LongdoBot-Windows-x64.exe"
       }
     },
     "channel": "stable",
-    "expires_at": "2027-07-18T18:26:52Z",
+    "expires_at": "2027-07-18T20:22:07Z",
     "mandatory": true,
-    "notes": "Recover taken orders in modes 1-3 and count only verified confirmed successes",
+    "notes": "Protect active pending or assigned jobs and Payment Detail without refresh, cancel, or additional clicks",
     "product_id": "longdo-bot",
-    "published_at": "2026-07-18T18:26:52Z",
+    "published_at": "2026-07-18T20:22:07Z",
     "schema": 1,
-    "sequence": 18,
-    "version": "1.6.0"
+    "sequence": 19,
+    "version": "1.6.1"
   },
-  "signature": "CRYI94PgH/GT5poY0ZnrO0+gX2gl3YL1N5m+Q85JF7OlgA6zcNtiYvs+DBSqFitIAw6H6ldIzmAuiaGElk1aAA=="
+  "signature": "M+SJyEp1XiUQyDfu67+Hh1iVDrZKejqXCFnloMRA/PflVtsrka47/vq4dZ9qaf0UrTJzHmb78iwc1SReGTtEAw=="
 }
