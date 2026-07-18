@@ -3,20 +3,20 @@
   "payload": {
     "artifacts": {
       "windows-x64": {
-        "sha256": "ebcfaf3f0968e7621c031b50c29273860fb9505ab67f3bdd92d0724a00cc5703",
-        "size": 143867274,
-        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v1.4.0-build15/LongdoBot-Windows-x64.exe"
+        "sha256": "5503f195640b1e7bfd77e7de8c7a99850fd9a52a6282bf1ff170b59cb7fe7e28",
+        "size": 143904386,
+        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v1.5.0-build16/LongdoBot-Windows-x64.exe"
       }
     },
     "channel": "stable",
-    "expires_at": "2027-07-17T21:13:53Z",
+    "expires_at": "2027-07-18T10:40:23Z",
     "mandatory": true,
-    "notes": "Online membership, update-only remote mode, DOM dashboard sync, and success/failure sounds",
+    "notes": "Mode 3 SWD filters and authoritative Longdo Dashboard metrics",
     "product_id": "longdo-bot",
-    "published_at": "2026-07-17T21:13:53Z",
+    "published_at": "2026-07-18T10:40:23Z",
     "schema": 1,
-    "sequence": 15,
-    "version": "1.4.0"
+    "sequence": 16,
+    "version": "1.5.0"
   },
-  "signature": "WDC5O8Flps+4HBGsn1AFVOcYgCIlmPHxOyrxFkD8gflKRtZvVwpgMn2vTnGL8NfGngTR5LZifH5/rLjoHM8UCA=="
+  "signature": "mwoZMNK5DwdroGPBD6qvLcVdOybNUKtFeddjDiGFgwmV+JPUrXkjdLw8f5zXP9fUpfesnvb/B/cX/7kikY2gCA=="
 }
