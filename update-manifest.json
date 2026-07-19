@@ -3,20 +3,20 @@
   "payload": {
     "artifacts": {
       "windows-x64": {
-        "sha256": "fc204c05e84fbef7e221fb9310640a3a805766fc2c2ddb720d466f56abd5b618",
-        "size": 143969931,
-        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.1.0-build25/LongdoBot-Windows-x64.exe"
+        "sha256": "e535fa2b2c7689fcaf37522ecfe014bb9f5d7008d98ece48ad28c7844fe989d2",
+        "size": 143982016,
+        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.1.1-build26/LongdoBot-Windows-x64.exe"
       }
     },
     "channel": "stable",
-    "expires_at": "2027-07-19T11:12:26Z",
+    "expires_at": "2027-07-19T20:09:19Z",
     "mandatory": true,
-    "notes": "Unified mixed search, faster proven Refresh cycles, Pending diagnostics, and strict single-account Desktop isolation",
+    "notes": "Continuous post-order Refresh synchronization for phone completion and cancellation",
     "product_id": "longdo-bot",
-    "published_at": "2026-07-19T11:12:26Z",
+    "published_at": "2026-07-19T20:09:19Z",
     "schema": 1,
-    "sequence": 25,
-    "version": "2.1.0"
+    "sequence": 26,
+    "version": "2.1.1"
   },
-  "signature": "SwhiMk3w5e9RQAzR/lzEKrfjwCMtInmo4Hrf/jSsvSde6XHP0ChhJVxnlRJ3R8BviQ9/jfmDxvCef4vDFxJwAA=="
+  "signature": "tPKc217/NhwGTA+mq8+Zo+MgDhbvHmCDGiFeWsPrm437rEhBLPfqscoOsV+g5JcFrb+aYwBNUNRWcVK/5ZL3Bw=="
 }
