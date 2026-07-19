@@ -3,20 +3,20 @@
   "payload": {
     "artifacts": {
       "windows-x64": {
-        "sha256": "ac676bd4e671b2da58ff7b3ecb208fcc03400d1a482c8b259b0d3c4956065658",
-        "size": 143952200,
-        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.0.1-build24/LongdoBot-Windows-x64.exe"
+        "sha256": "fc204c05e84fbef7e221fb9310640a3a805766fc2c2ddb720d466f56abd5b618",
+        "size": 143969931,
+        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.1.0-build25/LongdoBot-Windows-x64.exe"
       }
     },
     "channel": "stable",
-    "expires_at": "2027-07-19T08:51:56Z",
+    "expires_at": "2027-07-19T11:12:26Z",
     "mandatory": true,
-    "notes": "Pause continuous automation while Payment Detail is open and resume exact Pending refresh after it closes",
+    "notes": "Unified mixed search, faster proven Refresh cycles, Pending diagnostics, and strict single-account Desktop isolation",
     "product_id": "longdo-bot",
-    "published_at": "2026-07-19T08:51:56Z",
+    "published_at": "2026-07-19T11:12:26Z",
     "schema": 1,
-    "sequence": 24,
-    "version": "2.0.1"
+    "sequence": 25,
+    "version": "2.1.0"
   },
-  "signature": "rGwsrl6ZGehRC3e1c7ublRa3KHEDd0TSQQOafegO7JBJ+1Jo+YCQc4w1y7Ksu28so95ihoNZ0PnZpury0Vt1BA=="
+  "signature": "SwhiMk3w5e9RQAzR/lzEKrfjwCMtInmo4Hrf/jSsvSde6XHP0ChhJVxnlRJ3R8BviQ9/jfmDxvCef4vDFxJwAA=="
 }
