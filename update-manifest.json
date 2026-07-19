@@ -3,20 +3,20 @@
   "payload": {
     "artifacts": {
       "windows-x64": {
-        "sha256": "e535fa2b2c7689fcaf37522ecfe014bb9f5d7008d98ece48ad28c7844fe989d2",
-        "size": 143982016,
-        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.1.1-build26/LongdoBot-Windows-x64.exe"
+        "sha256": "59faca70a2c48b6e2ea25a0f6050204a818b5fceec02cac4ab1c90baabb975bc",
+        "size": 143977857,
+        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.1.2-build27/LongdoBot-Windows-x64.exe"
       }
     },
     "channel": "stable",
-    "expires_at": "2027-07-19T20:09:19Z",
+    "expires_at": "2027-07-19T20:55:18Z",
     "mandatory": true,
-    "notes": "Continuous post-order Refresh synchronization for phone completion and cancellation",
+    "notes": "Immediate Auto Loop resume after the first readable Buy/SWD page",
     "product_id": "longdo-bot",
-    "published_at": "2026-07-19T20:09:19Z",
+    "published_at": "2026-07-19T20:55:18Z",
     "schema": 1,
-    "sequence": 26,
-    "version": "2.1.1"
+    "sequence": 27,
+    "version": "2.1.2"
   },
-  "signature": "tPKc217/NhwGTA+mq8+Zo+MgDhbvHmCDGiFeWsPrm437rEhBLPfqscoOsV+g5JcFrb+aYwBNUNRWcVK/5ZL3Bw=="
+  "signature": "CFar57p7pn1UZcUo3w5v2pu3v9erjUoP4khkCsr8hCzwC7wCXEn1Tl8XFplE9UT4cDHHKfv/x0AeF2pCYK9+Dg=="
 }
