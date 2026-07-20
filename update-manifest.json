@@ -3,20 +3,20 @@
   "payload": {
     "artifacts": {
       "windows-x64": {
-        "sha256": "ba2a34fccec581a1189f8b4bf2491436cbd0efee067349290a46d88de6278bc3",
-        "size": 144021456,
-        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.4.0-build33/LongdoBot-Windows-x64.exe"
+        "sha256": "f6dfc4b9eb3b9d0f47dd0d2190dd84a4051f50c1dd3e3d897c716b0c60d428b7",
+        "size": 144021545,
+        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.5.0-build34/LongdoBot-Windows-x64.exe"
       }
     },
     "channel": "stable",
-    "expires_at": "2027-07-20T17:50:41Z",
+    "expires_at": "2027-07-20T20:33:54Z",
     "mandatory": true,
-    "notes": "Unified mixed search, simplified one-mode controls, full-page first scan, continuous last-page refresh, amount ranges up to 1,000,000 SWD, and adjustable tolerance defaulting to ±1,000 SWD.",
+    "notes": "ปรับ Refresh loop หน้าออเดอร์ว่างและระบบ Hosted Slot focus/pause",
     "product_id": "longdo-bot",
-    "published_at": "2026-07-20T17:50:41Z",
+    "published_at": "2026-07-20T20:33:54Z",
     "schema": 1,
-    "sequence": 33,
-    "version": "2.4.0"
+    "sequence": 34,
+    "version": "2.5.0"
   },
-  "signature": "v9l/B9Jh2uyRZdGBXsm4mqjZ6qwUMZ4Mp4GM1wkTX3cK0SEH0tho5wsgliVFEO2Ik1pGCNI+l+qAsTdb+AVFDA=="
+  "signature": "sm+HWA/4OpaWTRxJKgjnwVholwT94QzUucrXkHb9HWimblnIQrgbogQJNd7t/HYWMfsX+WQB96DnH/9XT+0FDw=="
 }
