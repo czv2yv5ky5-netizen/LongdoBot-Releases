@@ -3,20 +3,20 @@
   "payload": {
     "artifacts": {
       "windows-x64": {
-        "sha256": "bf8056298ee91cf0d39efd1ebb605990de5b0c7e2e17d76ded48d409343da1be",
-        "size": 144014617,
-        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.3.0-build31/LongdoBot-Windows-x64.exe"
+        "sha256": "9ca94caa355fdffea229cbd3f877461abbb65824c968328497fbcddd4dec377c",
+        "size": 144020942,
+        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.4.0-build32/LongdoBot-Windows-x64.exe"
       }
     },
     "channel": "stable",
-    "expires_at": "2027-07-20T15:32:40Z",
+    "expires_at": "2027-07-20T17:43:16Z",
     "mandatory": true,
-    "notes": "Persistent order fingerprint blacklist, Pending Guardian, faster pending refresh, and Dashboard DOM disabled in Desktop.",
+    "notes": "Unified mixed search, full-page first scan, continuous last-page refresh, amount ranges up to 1,000,000 SWD, and adjustable tolerance defaulting to ±1,000 SWD.",
     "product_id": "longdo-bot",
-    "published_at": "2026-07-20T15:32:40Z",
+    "published_at": "2026-07-20T17:43:16Z",
     "schema": 1,
-    "sequence": 31,
-    "version": "2.3.0"
+    "sequence": 32,
+    "version": "2.4.0"
   },
-  "signature": "DIXNtnGbllPtjua/FtgHqDEJVf1VP3skx4SQ8BaahGtuQ4Vjaq/lCSHTuwK7PLcFhqhx1g6NS7D6aADtG45CAQ=="
+  "signature": "zKldrscOZwfzy1atEJ5NYQK9w+vygyW81QXbl0klDRKbyTkeIsE6BvSp7SgLhU9TGPDTOY7e8vBpMiiKr8cADQ=="
 }
