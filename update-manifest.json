@@ -3,20 +3,20 @@
   "payload": {
     "artifacts": {
       "windows-x64": {
-        "sha256": "04150c43a94d9354d540f8e1f301ee930320166207ad53a810f7c7b934da4654",
-        "size": 144003688,
-        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.1.4-build29/LongdoBot-Windows-x64.exe"
+        "sha256": "30a8a3d16a2c2092340c0a9b8745c15a553355f7653fc428d70aa095a9771060",
+        "size": 144007113,
+        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.2.0-build30/LongdoBot-Windows-x64.exe"
       }
     },
     "channel": "stable",
-    "expires_at": "2027-07-20T13:19:09Z",
+    "expires_at": "2027-07-20T14:19:41Z",
     "mandatory": true,
-    "notes": "No ambiguous Confirm hard lock; retry exact Cancel until Refresh, then continue searching.",
+    "notes": "Continuous Pending refresh, deferred safe stop, Buy/Sell recovery, and low-noise Hosted Telegram control.",
     "product_id": "longdo-bot",
-    "published_at": "2026-07-20T13:19:09Z",
+    "published_at": "2026-07-20T14:19:41Z",
     "schema": 1,
-    "sequence": 29,
-    "version": "2.1.4"
+    "sequence": 30,
+    "version": "2.2.0"
   },
-  "signature": "fSb8dCJZpoIMqZljb+/kYxHjuvFayOT+lACvGUlraOBO/0tj0UTU8okNiXpUa0mROHZQwZhCiNtDo1lHjnSRCA=="
+  "signature": "FqYRx4+WinUpeqg5nLngAzwTeMWyO+XFhUDJzfPt4oL8c1DKjyTCXIe3qv6ni+UScRb/qsO2DNJLwTFK/9xmAA=="
 }
