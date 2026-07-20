@@ -3,20 +3,20 @@
   "payload": {
     "artifacts": {
       "windows-x64": {
-        "sha256": "c25e8a84bef76ebf81562e228f2499c791d8eab61bd2d1d88540660fe8d4fa89",
-        "size": 144002548,
-        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.1.3-build28/LongdoBot-Windows-x64.exe"
+        "sha256": "04150c43a94d9354d540f8e1f301ee930320166207ad53a810f7c7b934da4654",
+        "size": 144003688,
+        "url": "https://github.com/czv2yv5ky5-netizen/LongdoBot-Releases/releases/download/v2.1.4-build29/LongdoBot-Windows-x64.exe"
       }
     },
     "channel": "stable",
-    "expires_at": "2027-07-20T12:24:59Z",
+    "expires_at": "2027-07-20T13:19:09Z",
     "mandatory": true,
-    "notes": "Resilient order recovery, protected payment flow, and concise Hosted activity status.",
+    "notes": "No ambiguous Confirm hard lock; retry exact Cancel until Refresh, then continue searching.",
     "product_id": "longdo-bot",
-    "published_at": "2026-07-20T12:24:59Z",
+    "published_at": "2026-07-20T13:19:09Z",
     "schema": 1,
-    "sequence": 28,
-    "version": "2.1.3"
+    "sequence": 29,
+    "version": "2.1.4"
   },
-  "signature": "yuj6lmTKkweV47T/mBOPaMIUN+p2tmSURDJlBJz4qEqZbqyexI9v2qAd5T+Skii3mNKEyhvJh2sYTYSuPRruAQ=="
+  "signature": "fSb8dCJZpoIMqZljb+/kYxHjuvFayOT+lACvGUlraOBO/0tj0UTU8okNiXpUa0mROHZQwZhCiNtDo1lHjnSRCA=="
 }
